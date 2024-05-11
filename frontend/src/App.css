@@ -1,0 +1,305 @@
+ 
+ .home {
+     margin-left: -30%;
+     color: black;
+ }
+.get-start{
+    margin-left: 2%;
+    margin-top: -40%;
+}
+.best{
+    margin-top: -50%;
+    font-size: 10vh;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.of{
+    color: red;
+    margin-left: 10%;
+}
+car-home{
+    height: 70vh;
+}
+.car1{
+    height: 30vh;
+    margin-top: 25%;
+    width: 25%;
+}
+.car2{
+    height: 30vh;
+    width: 25%;
+    margin-left: 26%;
+    margin-top: -14.6%;
+}
+.car3{
+    height: 30vh;
+    margin-top: -14.6%;
+    width: 25%;
+    margin-left: 52%;
+}
+.car4{
+    height: 30vh;
+    margin-top: -14.6%;
+    width: 25%;
+    margin-left: 78%;
+}
+.thar-h1{
+    font-weight: bold;
+    font-size: 7vh;
+    color: #b44593;
+    margin-left: 70%;
+    margin-top: -40%;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* about */
+.about-h1{
+    font-weight: bold;
+    font-size: 10vh;
+    margin-top: 5%;
+    text-align: center;
+}
+.about-h5{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+}
+ /* login */
+ .gradient-custom-2 {
+     /* fallback for old browsers */
+     background: #fccb90;
+
+     /* Chrome 10-25, Safari 5.1-6 */
+     background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+
+     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+ }
+ @media (min-width: 768px) {
+     .gradient-form {
+         height: 140vh !important;
+         width: 200vh;
+     }
+ }
+ .login-user {
+     height: 95vh;
+     margin-left: 8%;
+ }
+ @media (min-width: 69px) {
+     .gradient-custom-2 {
+         border-top-right-radius: .3rem;
+         border-bottom-right-radius: .3rem;
+     }
+ }
+ /* signup */
+ .signup {
+     background-image: url('public/signup.jpeg');
+     background-size: cover;
+ }
+ .signup-container {
+     margin-left: 30%;
+     height: 100vh;
+ }
+ .signup-card-body {
+     height: 80vh;
+ }
+ .signup-card {
+     height: 80vh;
+     margin-top: 10%;
+     margin-left: 10%;
+ }
+
+ .signup-now {
+     font-weight: bolder;
+     color: black;
+ }
+
+ .signup-h4 {
+     color: black;
+     font-weight: bold;
+ }
+
+ /* vehicle */
+
+ .vehicle-container {
+     margin-left: 10%;
+ }
+
+ .vehicle-card {
+     width: 50%;
+     margin-left: 28%;
+     padding-top: 30px;
+ }
+
+ .vehicle {
+     height: 120vh;
+     background-size: cover;
+ }
+
+ .vehicle-card-body {
+     background-size: cover;
+
+ }
+ .addvehicle-h4 {
+     margin-left: 40px;
+     color: black;
+     font-weight: bold;
+ }
+
+ .form-control {
+     width: 85%;
+     margin-left: 7%;
+ }
+ .home {
+     margin-left: -30%;
+     color: black;
+ }
+
+ /* browse-section */
+ .browse-background {
+     background-size: cover;
+ }
+
+
+ /* show -section */
+
+ .showvehicle-card {
+     width: 80%;
+     height: 30vh;
+     margin-left: 10%;
+     padding-top: 80px;
+ }
+ .show-background {
+     background-size: cover;
+ }
+ /* show */
+ .card-img {
+     height: 85vh;
+     width: 90%;
+     margin-left: 5%;
+ }
+
+ .card-body {
+     background-color: whitesmoke;
+ }
+
+ .card-footer {
+     background-color: whitesmoke;
+
+ }
+
+ .show-container1 {
+     height: 160vh;
+ }
+
+ /* manage */
+ .manage {
+     text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px;
+ }
+/* service */
+.service-img{
+    width: 100%;
+    height: 80vh;
+}
+.service-container{
+    height: 80vh;
+    width: 70%;
+    background-color: black;
+    margin-top: 5%;
+    margin-left: 15%;
+    }
+.service-box1{
+    height: 37vh;
+    width: 22%;
+    background-color: yellow;
+    margin-left: 17%;
+    margin-top: -37%;
+
+}
+.service-box2{
+    height: 37vh;
+    width: 22%;
+    background-color: greenyellow;
+    margin-left: 39%;
+    margin-top: -18%;
+    
+}
+.service-box3{
+    height: 37vh;
+    width: 22%;
+    background-color: green;
+    margin-left: 61%;
+    margin-top: -18%;
+    
+}
+.service-box4{
+    height: 37vh;
+    width: 22%;
+    background-color:  palevioletred;
+    margin-left: 17%;
+    margin-bottom: 2%;
+    
+}
+.service-box5{
+    height: 37vh;
+    width: 22%;
+    background-color: palevioletred;
+    margin-left: 39%;
+    margin-top: -20%;
+    margin-bottom: 2%;
+    
+}
+.service-box6{
+    height: 37vh;
+    width: 22%;
+    background-color: wheat;
+    margin-left: 61%;
+    margin-top: -20%;
+    margin-bottom: 2%;
+}
+.service-box1-car{
+    margin-left: 17%;
+    margin-top: -18%;
+    width: 22%;
+    height: 37vh;
+}
+.service-box3-car{
+    margin-left: 61%;
+    margin-top: -18%;
+    width: 22%;
+    height: 37vh;
+}
+.service-box5-car{
+    margin-left: 39%;
+    margin-top: -20%;
+    width: 22%;
+    height: 37vh;
+    margin-bottom: 2%;
+
+}
+.h1{
+    font-size: 5vh;
+    text-align: center;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.h5{
+    font-size: 3vh;
+    text-align: center;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-top: 5%;
+}
+.heading{
+    font-size: 10vh;
+    text-align: center;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    color: brown;
+}
